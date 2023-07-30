@@ -96,4 +96,7 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a>
+  <a href='https://neovim.io/' target="_blank" rel="noreferrer">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg' alt="neovim" width="40" height="40"/>
+  </a>
 </p>
