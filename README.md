@@ -58,7 +58,7 @@
     <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" height="40" width="40" alt="Ant design logo">
   </a>
   <a href='https://astro.build/' target="_blank" rel="noreferrer">
-    <img src='https://astro.build/assets/press/astro-logo-dark.png' alt="Astro build logo" width="150" height="40"/>
+    <img src='https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png' alt="Astro build logo" width="40" height="40"/>
   </a>
   <a href='https://vitejs.dev/' target="_blank" rel="noreferrer">
     <img src='https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg' height="40" width="40" alt="Vitejs logo"/>
