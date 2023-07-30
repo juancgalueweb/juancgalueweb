@@ -57,6 +57,12 @@
   <a href='https://ant.design/' target="_blank" rel="noreferrer">
     <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" height="40" width="40" alt="Ant design logo">
   </a>
+  <a href='https://astro.build/' target="_blank" rel="noreferrer">
+    <img src='https://astro.build/assets/press/astro-logo-dark.png' alt="Astro build logo" width="40" height="40"/>
+  </a>
+  <a href='https://vitejs.dev/' target="_blank" rel="noreferrer">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg' height="40" width="40" alt="Vitejs logo"/>
+  </a>
 </p>
 <p align="left">Back-end</p>
 <p align="left">
@@ -81,13 +87,13 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
-   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a>
 </p>
