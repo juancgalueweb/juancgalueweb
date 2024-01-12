@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Galué</h1>
 <h3 align="center">A passionate full-stack developer from Venezuela, living in Chile</h3>
 
-- 🔭 I’m currently working on **an app chat with socket.io**
+- 🔭 I’m currently working on **a web application to book a haircut and pay for it using a payment gateway service. The app will include a dashboard for both clients and admin/barbers**
 
-- 🌱 I’m currently learning **MySql**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-juancgalueweb.vercel.app/](https://portfolio-juancgalueweb.vercel.app/)
 
